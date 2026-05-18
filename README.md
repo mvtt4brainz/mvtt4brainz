@@ -32,14 +32,10 @@ $\color{hsl(138.95, 100%, 33.53%)}{\textsf{< TO THE BATMAN > </TO>}}$
 
 <img width="160" height="25" alt="image" src="https://github.com/user-attachments/assets/89cb7b9b-71f9-4f81-885a-1b41ef143660" />
 
-<img width="160" height="30" alt="htmltags" src="https://github.com/user-attachments/assets/7da5985b-4625-4796-9fff-c5227a09725a" />
-
 <img width="54" height="54" alt="lain" src="https://github.com/user-attachments/assets/1c70bc13-811e-49e6-ba50-42079db2d120" />
 
 <img width="160" height="30" alt="broken_computer" src="https://github.com/user-attachments/assets/c00ea452-b750-4f81-a6fd-bcf1f4335496" />
 
 <img width="165" height="30" alt="glitch" src="https://github.com/user-attachments/assets/33fc283a-3c30-4c6e-803b-c67b57afcae4" />
-
-<img width="130" height="30" alt="blinkiesCafe-c1" src="https://github.com/user-attachments/assets/f49cbb42-515d-4c75-900e-a53ec9ee6e1c" />
 
 <p align="center">
