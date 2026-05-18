@@ -10,7 +10,7 @@ $\color{hsl(138.95, 100%, 33.53%)}{\textsf{< TO THE BATMAN > </TO>}}$
 <img width="320" height="11" alt="image" src="https://github.com/user-attachments/assets/b8b13321-17a8-48bb-8e36-189bb7978006" />
 
 
-  <img width="992" height="1003" alt="image" src="https://github.com/user-attachments/assets/397ac3b2-b999-4e10-b98a-055387abfa71" />
+  <img width="700" height="650" alt="image" src="https://github.com/user-attachments/assets/397ac3b2-b999-4e10-b98a-055387abfa71" />
 
 <p align="center"> 
 
